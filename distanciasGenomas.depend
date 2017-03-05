@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1486705978 source:/home/gabriel/workspaces/distanciasGenomas/main.cpp
+	<iostream>
+	"Common.h"
+	"ListaAdjacencia.h"
+
+1486620794 source:/home/gabriel/workspaces/distanciasGenomas/src/Genoma.cpp
+	"Genoma.h"
+
+1486626291 /home/gabriel/workspaces/distanciasGenomas/include/Genoma.h
+
+1486630598 /home/gabriel/workspaces/distanciasGenomas/include/Common.h
+	<stdio.h>
+	<iostream>
+	<vector>
+
+1486706074 /home/gabriel/workspaces/distanciasGenomas/include/ListaAdjacencia.h
+	"Common.h"
+
+1486706063 source:/home/gabriel/workspaces/distanciasGenomas/src/ListaAdjacencia.cpp
+	"ListaAdjacencia.h"
+
+1487186668 source:/home/gabriel/Downloads/distanciasDCJ/distanciasGenomas/main.cpp
+	<iostream>
+	"Common.h"
+	"ListaAdjacencia.h"
+
+1487186668 /home/gabriel/Downloads/distanciasDCJ/distanciasGenomas/include/Common.h
+	<stdio.h>
+	<iostream>
+	<vector>
+
+1487186668 /home/gabriel/Downloads/distanciasDCJ/distanciasGenomas/include/ListaAdjacencia.h
+	"Common.h"
+
+1487186668 source:/home/gabriel/Downloads/distanciasDCJ/distanciasGenomas/src/Genoma.cpp
+	"Genoma.h"
+
+1487186668 /home/gabriel/Downloads/distanciasDCJ/distanciasGenomas/include/Genoma.h
+
+1487186668 source:/home/gabriel/Downloads/distanciasDCJ/distanciasGenomas/src/ListaAdjacencia.cpp
+	"ListaAdjacencia.h"
+
